@@ -1,0 +1,12 @@
+.context {
+    width: 80%;
+    height: 90%;
+    position: absolute;
+    margin:3vh 10% 5vh 10%;
+    text-align: center;  
+    border-radius: 2vh;
+    font-size: 1.5vw;
+    padding: 2vh;
+    text-shadow: 1px 1px black;
+    z-index: 1;
+}
